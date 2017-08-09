@@ -1,0 +1,2 @@
+# bcdata-exercises
+Exercises
