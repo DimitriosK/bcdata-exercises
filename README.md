@@ -5,3 +5,5 @@ Exercises
 ### Python
 
 Added a list of topics
+### Numpy
+### matplotlib
