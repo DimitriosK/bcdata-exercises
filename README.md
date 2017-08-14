@@ -7,3 +7,6 @@ Exercises
 Added a list of topics
 ### Numpy
 ### matplotlib
+
+### Machine learning 
+Statistics (inferential)
